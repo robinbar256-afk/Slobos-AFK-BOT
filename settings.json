@@ -8,7 +8,7 @@
   "server": {
     "ip": "hardcorehenries.aternos.me",
     "port": 45221,
-    "version": 
+    "version": ,
   },
   "position": {
     "enabled": true,
